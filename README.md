@@ -3,7 +3,6 @@
 VisionBot is an AI-powered vision bot that uses the Gemenai 2.0 model to facilitate live interactions through a webcam and microphone. The project is built with Python and includes a web interface written in HTML.
 
 ## Table of Contents
-
 - Overview
 - Features
 - Installation
